@@ -1,7 +1,7 @@
 # Webscraping:
 with `Beautiful Soup with Regex`
 
-This exercise was used to find what countries voted: f`or/against/abstained for any given Resolution` from the United Nations
+This exercise was used to find what countries voted: `for/against/abstained` for any given `Resolution` from the United Nations
 ------------------------------------------------------------------------------
 
 # `with Mr Fugu Data Science`
