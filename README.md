@@ -1,5 +1,4 @@
-# Webscraping:
-with `Beautiful Soup with Regex`
+# Webscraping: with `Beautiful Soup with Regex`
 
 This exercise was used to find what countries voted: `for/against/abstained` for any given `Resolution`from the United Nations
 
