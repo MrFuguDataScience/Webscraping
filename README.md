@@ -14,3 +14,10 @@ ALso Check out my videos: [Youtube](https://www.youtube.com/channel/UCbni-TDI-Ub
 **Required installs**:
 
 `pip install beautifulsoup4` | `pip install pyPDF2` | `pip install textract`
+
+
+**Skills Learned**:
++ Webscraping
++ Basic regular Expressions
++ Pdf parsing onling material
+
