@@ -18,6 +18,6 @@ ALso Check out my videos: [Youtube](https://www.youtube.com/channel/UCbni-TDI-Ub
 
 **Skills Learned**:
 + Webscraping
-+ Basic regular Expressions
++ Basic Regular Expressions (Regex)
 + Pdf parsing onling material
 
