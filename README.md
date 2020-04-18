@@ -1,4 +1,5 @@
-# Webscraping: with `Beautiful Soup with Regex`
+# Webscraping: with `Beautiful Soup with Regex` | `Selenium` | `Py4J` | `Eclipse IDE with Maven`
+**This is a two part jupyter notebook**
 
 This exercise was used to find what countries voted: `for/against/abstained` for any given `Resolution`from the United Nations
 
