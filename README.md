@@ -18,7 +18,7 @@ ALso Check out my videos: [Youtube](https://www.youtube.com/channel/UCbni-TDI-Ub
 
 **Required installs**:
 
-`pip install beautifulsoup4` | `pip install pyPDF2` | `pip install textract`
+`pip install beautifulsoup4` | `pip install pyPDF2` | `pip install Selenium`
 
 
 **Skills Learned**:
